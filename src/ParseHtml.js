@@ -1,8 +1,3 @@
-/*
-ParseHTML-React-Native (Version 0.1)
-Coded by: Simar (github.com/iSimar)
-GitHub Project: https://github.com/iSimar/ParseHTML-React-Native
-*/
 
 'use strict';
 import React from 'react';
